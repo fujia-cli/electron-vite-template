@@ -43,7 +43,7 @@
     "@commitlint/config-conventional": "^15.0.0",
     "@vitejs/plugin-vue": "^2.0.1",
     "@vue/compiler-sfc": "^3.2.27",
-    "electron": "^13.6.6",
+    "electron": "13.6.6",
     "electron-builder": "^22.14.5",
     "husky": "^7.0.4",
     "jest": "^27.4.7",
