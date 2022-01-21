@@ -76,7 +76,7 @@ const prod = {
         files: ['**'],
         extends: null,
         productName: '<%= packageName %>',
-        appId: 'com.yourComp.<%= packageName %>',
+        appId: 'site.fujia.app', // the property is important, replace with you own appId
         asar: true,
         extraResources: require('../common/extraResources.js'),
         win: require('../common/winConfig.js'),

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-A template for electron and build with vite.
+A template for electron and build with Vite & vue-next.
 
 </div>
 

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-一套使用 Vite + vue-next 构建 Electron 的模板。
+一套使用 Vite + vue-next 构建的 Electron 模板。
 
 </div>
 

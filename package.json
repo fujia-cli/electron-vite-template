@@ -1,12 +1,13 @@
 {
   "name": "@fujia/electron-vite-template",
   "version": "0.1.0",
-  "description": "A template for electron and build with vite",
+  "description": "A template for electron and build with vite & vue-next",
   "keywords": [
     "template",
     "stage",
     "electron",
-    "vite"
+    "vite",
+    "vue-next"
   ],
   "scripts": {
     "prepare": "husky install"
